@@ -1,6 +1,8 @@
 # Takeaway
 Download zip files and remove them afterwards.
-Usage: create a folder and put this index.php there.
+Usage: create a folder named as "wherever" in webroot and save this index.php there.
+Fill this folder with zip files you want to share.
+
 The URL http(s)://whatever.com/wherever/index.php?file=THISISTHEFILENAME will open THISISTHEFILENAME.zip and delete it afterwards.
 Anyone knowing the link can download the content, but it can be downloaded only once, thus compromise could be easily detected.
 
