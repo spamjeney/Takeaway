@@ -13,5 +13,6 @@ Anyone knowing the link can download the content, but it can be downloaded only 
 2. Use random pattern for the folder name instead of "wherever", you will not be beaten by crawling auto discoverers.
 
 3. Use random pattern for filenames instead of "THISISTHEFILENAME", and the bad guys will never figure out what it is.
+   (Please note that the extension (.zip) is not needed in the URL!)
 
 E.g. https://guesswhat.com/j5K9v8CU6syAMoiwpKVp4W/index.php?file=QPQe7FiaK9SxSS6Nvv7px2
